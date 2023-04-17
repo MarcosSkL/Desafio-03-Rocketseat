@@ -12,3 +12,7 @@ O código sofreu algumas alterações nos principais pontos abordados nessa fase
 
 ![Screenshot](https://efficient-sloth-d85.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fb447a15f-34cc-4490-9188-8e640f02e3c4%2FUntitled.png?id=6733d759-a003-4cf2-80e0-909a15bc8a21&table=block&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=1440&userId=&cache=v2)
 
+## Screenshots
+
+![Screenshot](![image](https://user-images.githubusercontent.com/81534272/232367279-d63d666e-9660-4a4a-9252-57cdafce6216.png)
+)
